@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Shingala</h1>
 <h3 align="center">A full stack developer</h3>
 <h3 align="center">
-<a href="[https://twitter.com/shingalashubham](https://shubham-portfolio-chi.vercel.app/)" target="blank">Visit My Portfolio</a></h3>
+Visit My Portfolio At https://shubham-portfolio-chi.vercel.app/
 
 - 🌱 I’m currently learning **Machine Learning, React JS**
 
