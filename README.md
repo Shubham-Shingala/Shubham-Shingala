@@ -94,17 +94,6 @@ I enjoy contributing to:
 
 If you’re looking for a **reliable, senior contributor**, feel free to reach out.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-shingala&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-shingala&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
 
